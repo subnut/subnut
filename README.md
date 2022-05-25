@@ -1,6 +1,6 @@
+<!--
 ### Hi there 👋
 
-<!--
 **subnut/subnut** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+If I helped you in some way and you want to sponsor me, gift me anything from [my bandcamp wishlist](https://bandcamp.com/snath03/wishlist).
+
+Have a great day :wave:
