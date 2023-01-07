@@ -15,6 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-If I helped you in some way and you want to sponsor me, gift me anything from [my bandcamp wishlist](https://bandcamp.com/snath03/wishlist).
+If I helped you in any way, please consider [buying me a coffee](https://www.buymeacoffee.com/subnut) or gifting me anything from [my bandcamp wishlist](https://bandcamp.com/snath03/wishlist).
 
 Have a great day :wave:
